@@ -11,7 +11,7 @@ type: page
 
 ## 关于我
 
-<iframe src="https://raw.githubusercontent.com/NicolasLee/nicolaslee.github.io/master/pictures/流浪地球.jpeg" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
+<image src="https://raw.githubusercontent.com/NicolasLee/nicolaslee.github.io/master/pictures/李舜生.jpeg" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></image>
 
 主要工作于手机摄像头模组行业
 
