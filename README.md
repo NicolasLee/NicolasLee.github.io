@@ -347,8 +347,6 @@ Thanks these friends!!!
 * `[^]` Rewrite the demo page with Masonry
 * `[-]` Remove jQuery and BootStrap
 
-About my old blog theme, I won't maintain any more. And I put the code at  [NicolasLee/old-blog](https://github.com/NicolasLee/old-blog).
-
 ## License
 
 [MIT License](https://github.com/NicolasLee/NicolasLee.github.io/blob/master/LICENSE.md)

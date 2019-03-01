@@ -376,8 +376,6 @@ Configuration file: E:/GitWorkSpace/blog/_config.yml
 * `[^]` 使用 Masonry 重写了 Demo 页中的瀑布流布局，响应式交互体验更好
 * `[-]` 去除了 jQuery 和 BootStrap，使得加载速度更快
 
-关于旧版博客，我不再维护，同时我把代码转移到了另一个仓库，见 [NicolasLee/old-blog](https://github.com/NicolasLee/old-blog)。
-
 ## License
 
 [MIT License](https://github.com/NicolasLee/NicolasLee.github.io/blob/master/LICENSE.md)
