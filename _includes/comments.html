@@ -1,0 +1,14 @@
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script> 
+<div id="gitalk-container"></div>     <script type="text/javascript">
+    var gitalk = new Gitalk({
+        clientID: '3c062baec73099e6a1f9',
+        clientSecret: 'aab977e57495712ce773c87e93fbd3ea784715be',
+        repo: 'nicolaslee.github.io',
+        owner: 'NicolasLee',
+        admin: ['NicolasLee'],
+        id: decodeURI(window.location.pathname)
+
+    });
+    gitalk.render('gitalk-container');
+</script>
