@@ -10,7 +10,7 @@
 
 With the escalation of jekyll version, but I also want to reconstruct my older blog theme, so I did reconstruction and added some features recently. My new blog theme will still be stored in this repository. I will also use this theme in the future. Now I have done basically, then I will focus on issues that users opend to make theme better.
 
-**My Blog Url: [http://gaohaoyang.github.io/](http://gaohaoyang.github.io/)**. If you like this theme, you can give me a star to encourage me. Welcome everyone to use it.
+**My Blog Url: [http://NicolasLee.github.io/](http://NicolasLee.github.io/)**. If you like this theme, you can give me a star to encourage me. Welcome everyone to use it.
 
 ## Content
 
@@ -113,7 +113,7 @@ Of course, I have done a very good mobile adaptation.
 
 ### Footer
 
-**Welcome to use this blog theme, but please keep the theme author info at footer.** Theme designed by [HyG](https://github.com/gaohaoyang).
+**Welcome to use this blog theme, but please keep the theme author info at footer.** Theme designed by [HyG](https://github.com/NicolasLee).
 
 ![footer](http://ww3.sinaimg.cn/large/7011d6cfjw1f3bepd8002j20hl02ct95.jpg)
 
@@ -180,13 +180,13 @@ Mainly shows at the footer of the site.
 
 ```yml
 # other links
-twitter_username: gaohaoyang126
-facebook_username: gaohaoyang.water
-github_username:  Gaohaoyang
-email: gaohaoyang126@126.com
-weibo_username: 3115521wh
-zhihu_username: gaohaoyang
-linkedIn_username: gaohaoyang
+# twitter_username: xxx
+# facebook_username: xxx
+github_username:  xxx
+email: xxx@xx.com
+weibo_username: xxx
+zhihu_username: xxx
+linkedIn_username: xxx
 
 description_footer: 本站记录我的前世今生！
 ```
@@ -297,7 +297,7 @@ You can also donate me for a coffee, and I'll do better. Thanks.
 
 |                                                                     PayPal                                                                     |                                 Wechat Pay                                  |                                   Alipay                                    |
 |:----------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------:|:---------------------------------------------------------------------------:|
-| [![PayPal](https://www.paypalobjects.com/webstatic/paypalme/images/pp_logo_small.png)<br>Donate via PayPal ](https://www.paypal.me/gaohaoyang) | ![wechat](http://ww2.sinaimg.cn/large/7011d6cfjw1f3bkdw3bslj206z06q3z6.jpg) | ![alipay](http://ww2.sinaimg.cn/large/7011d6cfjw1f3bk8ikzoij20740743z5.jpg) |
+| [![PayPal](https://www.paypalobjects.com/webstatic/paypalme/images/pp_logo_small.png)<br>Donate via PayPal ](https://www.paypal.me/NicolasLee) | ![wechat](http://ww2.sinaimg.cn/large/7011d6cfjw1f3bkdw3bslj206z06q3z6.jpg) | ![alipay](http://ww2.sinaimg.cn/large/7011d6cfjw1f3bk8ikzoij20740743z5.jpg) |
 
 
 Thanks these friends!!!
@@ -346,13 +346,13 @@ Thanks these friends!!!
 
 ### 2017.2.28
 
-- `[^]` fix smoothScroll bug in Tencent webview like wechat and qq.  [#22](https://github.com/Gaohaoyang/gaohaoyang.github.io/issues/22), [#48](https://github.com/Gaohaoyang/gaohaoyang.github.io/issues/48)
+- `[^]` fix smoothScroll bug in Tencent webview like wechat and qq.  [#22](https://github.com/NicolasLee/NicolasLee.github.io/issues/22), [#48](https://github.com/NicolasLee/NicolasLee.github.io/issues/48)
 
 ### 2016.6.20
 
 * `[+]` Add next post and previous post link in post page.
 * `[^]` Change the sort of font-family to avoid full-width half-width characters mistake.
-* `[^]` Fix bug in tags cloud when division by zero. [#26](https://github.com/Gaohaoyang/gaohaoyang.github.io/issues/26), [#28](https://github.com/Gaohaoyang/gaohaoyang.github.io/issues/28), [#30](https://github.com/Gaohaoyang/gaohaoyang.github.io/issues/30)
+* `[^]` Fix bug in tags cloud when division by zero. [#26](https://github.com/NicolasLee/NicolasLee.github.io/issues/26), [#28](https://github.com/NicolasLee/NicolasLee.github.io/issues/28), [#30](https://github.com/NicolasLee/NicolasLee.github.io/issues/30)
 
 ### 2016.5.11 v2.0.1
 
@@ -382,8 +382,8 @@ Thanks these friends!!!
 * `[^]` Rewrite the demo page with Masonry
 * `[-]` Remove jQuery and BootStrap
 
-About my old blog theme, I won't maintain any more. And I put the code at  [Gaohaoyang/old-blog](https://github.com/Gaohaoyang/old-blog).
+About my old blog theme, I won't maintain any more. And I put the code at  [NicolasLee/old-blog](https://github.com/NicolasLee/old-blog).
 
 ## License
 
-[MIT License](https://github.com/Gaohaoyang/gaohaoyang.github.io/blob/master/LICENSE.md)
+[MIT License](https://github.com/NicolasLee/NicolasLee.github.io/blob/master/LICENSE.md)
