@@ -21,11 +21,12 @@ type: page
 
 ## 联系我
 
-* GitHub：[NicolasLee](https://github.com/NicolasLee)
-* email：312725531@qq.com
-* [Weibo](https://www.weibo.com/devilthelover)
+* [GitHub](https://github.com/NicolasLee)
+* [CSDN](https://blog.csdn.net/devillixin)
 * [知乎](https://www.zhihu.com/people/NicolasGrey)
+* [Weibo](https://www.weibo.com/devilthelover)
 * [豆瓣](https://www.douban.com/people/nicolaslee0311/)
+* Email：312725531@qq.com
 
 ## 关于本站
 
@@ -33,7 +34,7 @@ type: page
 
 ~欢迎使用~
 
-欢迎大家提一些对本站主题的建议，可以直接在下面留言或者新建一个 [Issue](https://github.com/NicolasLee/NicolasLee.github.io/issues)。
+欢迎大家提一些对本站主题的建议，可以直接在下面留言。
 
 ### Update Log
 
